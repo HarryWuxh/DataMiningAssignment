@@ -1,0 +1,171 @@
+Feature #1: 
+1.0    180
+2.0    119
+Name: 1, dtype: int64
+Feature #2: 
+1    276
+9     24
+Name: 2, dtype: int64
+Feature #3: 
+max       5.305629e+06
+min       5.184760e+05
+mean      1.085889e+06
+median    5.303055e+05
+nan       0.000000e+00
+dtype: float64
+Feature #4: 
+max       40.800000
+min       35.400000
+mean      38.167917
+median    38.200000
+nan       60.000000
+dtype: float64
+Feature #5: 
+max       184.000000
+min        30.000000
+mean       71.913043
+median     64.000000
+nan        24.000000
+dtype: float64
+Feature #6: 
+max       96.000000
+min        8.000000
+mean      30.417355
+median    24.500000
+nan       58.000000
+dtype: float64
+Feature #7: 
+3.0    109
+1.0     78
+2.0     30
+4.0     27
+Name: 7, dtype: int64
+Feature #8: 
+1.0    115
+3.0    103
+4.0      8
+2.0      5
+Name: 8, dtype: int64
+Feature #9: 
+1.0    79
+3.0    58
+4.0    41
+2.0    30
+5.0    25
+6.0    20
+Name: 9, dtype: int64
+Feature #10: 
+1.0    188
+2.0     78
+3.0      2
+Name: 10, dtype: int64
+Feature #11: 
+3.0    67
+2.0    59
+5.0    42
+4.0    39
+1.0    38
+Name: 11, dtype: int64
+Feature #12: 
+3.0    128
+4.0     73
+1.0     39
+2.0     16
+Name: 12, dtype: int64
+Feature #13: 
+1.0    76
+3.0    65
+2.0    65
+4.0    38
+Name: 13, dtype: int64
+Feature #14: 
+2.0    102
+1.0     71
+3.0     23
+Name: 14, dtype: int64
+Feature #15: 
+1.0    120
+3.0     39
+2.0     35
+Name: 15, dtype: int64
+Feature #16: 
+max         7.500000
+min         1.000000
+mean        4.707547
+median      5.000000
+nan       247.000000
+dtype: float64
+Feature #17: 
+4.0    79
+1.0    57
+3.0    49
+2.0    13
+Name: 17, dtype: int64
+Feature #18: 
+5.0    79
+4.0    43
+1.0    28
+2.0    19
+3.0    13
+Name: 18, dtype: int64
+Feature #19: 
+max       75.000000
+min       23.000000
+mean      46.295203
+median    45.000000
+nan       29.000000
+dtype: float64
+Feature #20: 
+max       89.000000
+min        3.300000
+mean      24.456929
+median     7.500000
+nan       33.000000
+dtype: float64
+Feature #21: 
+2.0    48
+3.0    46
+1.0    41
+Name: 21, dtype: int64
+Feature #22: 
+max        10.100000
+min         0.100000
+mean        3.019608
+median      2.250000
+nan       198.000000
+dtype: float64
+Feature #23: 
+1.0    178
+2.0     77
+3.0     44
+Name: 23, dtype: int64
+Feature #24: 
+1    191
+2    109
+Name: 24, dtype: int64
+Feature #25: 
+max       41110.00
+min           0.00
+mean       3657.88
+median     2673.50
+nan           0.00
+dtype: float64
+Feature #26: 
+max       7111.000000
+min          0.000000
+mean        90.226667
+median       0.000000
+nan          0.000000
+dtype: float64
+Feature #27: 
+max       2209.000000
+min          0.000000
+mean         7.363333
+median       0.000000
+nan          0.000000
+dtype: float64
+Feature #28: 
+2    201
+1     99
+Name: 28, dtype: int64
+
